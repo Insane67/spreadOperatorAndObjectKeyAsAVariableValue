@@ -1,0 +1,2 @@
+# spreadOperatorAndObjectKeyAsAVariableValue
+Created with CodeSandbox
